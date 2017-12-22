@@ -1,0 +1,6 @@
+{
+    "req_burst_type": "deterministic", 
+    "req_rate": "0.5", 
+    "trace_file": "trace.txt", 
+    "req_burst_size": "4"
+}
